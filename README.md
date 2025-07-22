@@ -1,6 +1,14 @@
 ![Header](https://github.com/JuliJuly19/JuliJuly19/blob/main/assets/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_viber_2025-07-22_12-54-56-622.jpg)
 
+## ABOUT ME
+
+## HELLO, I am Juliia :)
+
+---
+
 ## I am Entry-level QA or tester. In past Lawyer with 5 years of experience. I want to improve my IT professional skills 😎
+
+---
 
 ## Languages and Tools:
 
@@ -15,6 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
+---
+
 ## 🛠 Web Application Testing:
 
 <div>
@@ -22,6 +32,8 @@
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
+
+---
 
 ## 📱 Mobile app testing:
 
@@ -33,12 +45,16 @@
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
 
+---
+
 ## 💾 Working with data:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
+
+---
 
 ## ✏️ Working with code:
 
@@ -49,9 +65,10 @@
   
 </div>
 
+---
+
 ## Follow me
 
-![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-008B8B?style=for-the-badge&logo=appveyor)
-![GITHUB](https://img.shields.io/badge/-GITHUB-008B8B?style=for-the-badge&logo=appveyor)
-![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-008B8B?style=for-the-badge&logo=appveyor)
-![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-008B8B?style=for-the-badge&logo=appveyor)
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-008B8B?style=for-the-badge&logo=linkedin&logoColor=27AOD9)](https://www.linkedin.com/in/yuliia-dubova-914767169)
+[![GITHUB](https://img.shields.io/badge/-GITHUB-008B8B?style=for-the-badge&logo=agithub&logoColor=B4068E)](https://github.com/JuliJuly19)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-008B8B?style=for-the-badge&logo=telegram&logoColor=FF0000)](https://t.me/julia091990)
